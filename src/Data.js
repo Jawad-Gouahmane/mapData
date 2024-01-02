@@ -1,22 +1,38 @@
  export const Data = [{
-    img : require('./image/product1.jpg'),
-    Description : ' Categories: Football boots , Football equipment sale  Men s shoes',
-    Name  : 'Cleats Nike Zoom Mercurial ',
-    Price:  ' Price : 168,99 €',
-    Add : 'Acheter'
+    img : require('./image/banoun.jpg'),
+    Name : ' Badr Benoun',
+    Team  : ' Raja Athletic',
+    Nationality:  ' Morocco',
+    jerseyNumber: ' 13',
+    Age : 30,
+    Add : 'Acheter' , 
 },
 {
-    img : require('./image/product2.webp'),
-    Description : ' Categories: Football boots , Purpose , Producer , Series , Advanced ',
-    Name  : 'adidas Mundial Team Boots   ',
-    Price:  ' Price : 110,99 €',
-    Add : 'Acheter'
+    img : require('./image/malongo.webp'),
+    Name : ' Name: Ben  Malongo',
+    Team  : 'Team : Raja Athletic',
+    Nationality:   'Nationality: Congo RDC',
+    jerseyNumber: 'jerseyNumber: 28',
+    Age : " Age: 29",
+    Add : 'Acheter' , 
 },
 {
-    img : require('./image/product3.jpg'),
-    Description : ' Categories: Football sportswear , Tracksuits, sweatshirts, pants , ',
-    Name  : 'Sweatshirt adidas Tiro 23  ',
-    Price:  ' Price : 67,99 €',
-    Add : 'Acheter'
-},]
+    img : require('./image/milito.jpg'),
+    Name : 'Name:Diego milito',
+    Team  : 'Team: Inter Milan',
+    Nationality:  ' Nationality: Argentine',
+    jerseyNumber: 'jerseyNumber:22',
+    Age : "Age: 27",
+    Add : 'Acheter'  ,
+},
+{
+    img : require('./image/quaresma.jpg'),
+    Name : 'Name :Quaresma',
+    Team  : 'Team: Besiktas',
+    Nationality:  'Nationality: Portugal',
+    jerseyNumber: 'jerseyNumber: 77',
+    Age : "Age:30",
+    Add : 'Acheter' , 
+}
+]
 
